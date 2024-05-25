@@ -1,6 +1,6 @@
-#expense-tracke
+# expense-tracke
 Приветствую всех смотрящих, этот проек построен на архитектуре REST API, из себя он представляет трекер расходов, куда можно записывать свои расходы, получить диграмму по категориям трат в этом месяце, ну и другие CRUD операции по мелочи.
 
-#БД:Postgre
-#Frameworks: ASP Net, EntityFramework
-#Пакеты: Identity,Drawing,JWTBearer
+# БД:Postgre
+# Frameworks: ASP Net, EntityFramework
+# Пакеты: Identity,Drawing,JWTBearer
